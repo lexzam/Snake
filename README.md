@@ -1,4 +1,4 @@
 # Snake
-Recreation of the snake game that used to be on old phones
-Follows the same rules and objectives as the original one
-the data.txt file is were your score will be saved
+Recreation of the snake game that used to be on old phones.
+\nFollows the same rules and objectives as the original one.
+\nThe data.txt file is were your score will be saved.
